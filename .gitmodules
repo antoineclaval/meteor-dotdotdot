@@ -1,0 +1,3 @@
+[submodule "jQuery.dotdotdot"]
+	path = jQuery.dotdotdot
+	url = git@github.com:BeSite/jQuery.dotdotdot.git
