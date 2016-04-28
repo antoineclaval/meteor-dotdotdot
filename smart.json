@@ -1,8 +1,8 @@
 {
     "name": "meteor-dotdotdot",
     "description": "JQuery dotdotdot for Meteor",
-    "homepage": "https://github.com/scmart/meteor-dotdotdot",
-    "author": "Sedric Mart",
-    "version": "1.6.13",
-    "git": "https://github.com/scmart/meteor-dotdotdot.git"
+    "homepage": "https://github.com/antoineclaval/meteor-dotdotdot",
+    "author": "Sedric Mart, Antoine Claval",
+    "version": "1.8.1",
+    "git": "https://github.com/antoineclaval/meteor-dotdotdot.git"
 }
